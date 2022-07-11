@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CSS Serial Com App</string>
+    <string name="select_serial_port">Puerto:</string>
+    <string name="select_baud_rate">Baudrate</string>
+    <string name="open_serial_port">abrir puerto</string>
+    <string name="close_serial_port">cerrar ps</string>
+    <string name="no_serial_device">disp serial</string>
+    <string name="send_data">enviar</string>
+    <string name="input_data">comandos Hex</string>
+    <string name="load_cmd_list">cargar archivo ext</string>
+    <string name="clear">Limpiar</string>
+    <string name="auto_end">auto end</string>
+
+</resources>
